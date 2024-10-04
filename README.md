@@ -40,4 +40,4 @@ teams_alert is a python package that allows you to send alerts to Microsoft Team
 
 5. Copy the webhook URL
 
-    ![Get the webhook URL](https://raw.githubusercontent.com/jimbo-p/teams_alert/c367c1ff8612c09aeea7bea15c2b1a7d71ecc478/docs/workflow_URL.JPG)
+    ![Get the webhook URL](https://raw.githubusercontent.com/jimbo-p/teams_alert/c367c1ff8612c09aeea7bea15c2b1a7d71ecc478/docs/workflow_URL2.JPG)
