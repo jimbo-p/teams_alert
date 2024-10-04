@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "teams_alert"
-version = "0.1.4"
+version = "0.1.5"
 description = "A simple package to send messages or alerts to MS Teams channels."
 readme = "README.md"
 license = { file = "LICENSE" }
