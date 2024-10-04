@@ -1,0 +1,12 @@
+LICENSE
+MANIFEST.in
+README.md
+pyproject.toml
+teams_alert/__init__.py
+teams_alert/send_card.py
+teams_alert/templates.py
+teams_alert.egg-info/PKG-INFO
+teams_alert.egg-info/SOURCES.txt
+teams_alert.egg-info/dependency_links.txt
+teams_alert.egg-info/requires.txt
+teams_alert.egg-info/top_level.txt
