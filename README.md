@@ -16,7 +16,7 @@ teams_alert is a python package that allows you to send alerts to Microsoft Team
 ```teams_alert = TeamsAlert(webhook_url)```
 
 4. Send a message - email is optional
-```teams_alert.send("Some sort of title you'd want to use", "Some sort of message you'd want to send", "jimbo_p@oxy.com")```
+```teams_alert.send("Some sort of title you'd want to use", "Some sort of message you'd want to send", "jimbo_p@gmail.com")```
 
 ![Result](https://raw.githubusercontent.com/jimbo-p/teams_alert/c367c1ff8612c09aeea7bea15c2b1a7d71ecc478/docs/result_card.JPG)
 
