@@ -9,7 +9,7 @@ description = "A simple package to send messages or alerts to MS Teams channels.
 readme = "README.md"
 license = { file = "LICENSE" }
 authors = [
-  { name = "Andrew Pruet", email = "james_pruet@oxy.com" },
+  { name = "Andrew Pruet", email = "japruet@gmail.com" },
 ]
 keywords = ["teams", "package", "pip", "MS", "Microsoft"]
 classifiers = [
